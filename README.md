@@ -46,10 +46,3 @@
 
 ---
 
-## ✨ Fun Fact  
-💡 *I believe every bug is just a feature waiting to be understood.* 😄  
-
----
-
-<!-- Footer with Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
