@@ -43,6 +43,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aadhisesanpalanivel&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
+<h3>📊 Leetcode Insights</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aaadhiaadhi5435?theme=dark&font=Montserrat&ext=contest" alt="leetcode stats" />
+</p>
+
 
