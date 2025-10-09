@@ -44,6 +44,14 @@
   <img src="https://streak-stats.demolab.com?user=aadhisesanpalanivel&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
+<p align="center">
+</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadhisesanpalanivel&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/Aadhisesanpalanivel" alt="GitHub contributions" />
+</p>
+---
 <h3>📊 Leetcode Insights</h3>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aadhiaadhi5435?theme=dark&font=Montserrat&ext=contest" alt="leetcode stats" />
