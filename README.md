@@ -46,7 +46,7 @@
 ---
 <h3>📊 Leetcode Insights</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aaadhiaadhi5435?theme=dark&font=Montserrat&ext=contest" alt="leetcode stats" />
+  <img src="https://leetcard.jacoblin.cool/aadhiaadhi5435?theme=dark&font=Montserrat&ext=contest" alt="leetcode stats" />
 </p>
 
 
